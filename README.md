@@ -12,5 +12,5 @@
 ### [Project 4: Netflix_Movie_Data_Analysis](https://github.com/Vivk2024/Zomato_Order_Data_Analysis)
 * Netflix_Movie_Data_Analysis: An exploratory data analysis project exploring trends in genres, release years, and content ratings on Netflix.
 
-### [Project 4: IPhone_Sales_Data_Analysis](https://github.com/Vivk2024/IPhone_Sales_Data_Analysis)
+### [Project 5: IPhone_Sales_Data_Analysis](https://github.com/Vivk2024/IPhone_Sales_Data_Analysis)
 * An interactive exploratory data analysis of iPhone sales data to uncover insights on pricing, discounts, and customer ratings using Python and visualizations.
